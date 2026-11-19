@@ -14,8 +14,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Esta es mi segunda rama.
-hgfhg
+Esta es mi segunda rama. Mi archivo index.
 
 ## R Markdown
 

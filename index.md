@@ -3,7 +3,7 @@
 Alumnos CIPDB
 2026-11-19
 
-Esta es mi segunda rama. hgfhg
+Esta es mi segunda rama. Mi archivo index.
 
 ## R Markdown
 
