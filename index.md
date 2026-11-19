@@ -3,6 +3,8 @@
 Alumnos CIPDB
 2026-11-19
 
+puedes o no
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
